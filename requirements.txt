@@ -3,3 +3,6 @@ pandas
 yfinance
 plotly
 openpyxl
+plotly.graph_objs
+alpha_vantage.fundamentaldata
+io
